@@ -196,10 +196,6 @@ Developed as a frontend project using Next.js and React.
 
 ## License
 
-This project is intended for educational and portfolio purposes.
+This project is intended for educational purposes.
 
----
 
-## contribution
-
- - Balamurugan
